@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579111757 source:c:\users\emanuel\desktop\proiect final\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<time.h>
+
